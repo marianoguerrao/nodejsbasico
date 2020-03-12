@@ -12,3 +12,6 @@ module.exports = {
         return a / b;
     }
 }
+
+/*module.exports permite exportar estas funciones para que puedan ser utilizadas o invocadas en otros documentos.
+en este caso se importan en index.js*/
